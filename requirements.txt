@@ -1,3 +1,6 @@
 streamlit  
  pandas 
  json
+sqlite3
+bcrypt
+datetime
